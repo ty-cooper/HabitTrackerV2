@@ -2,4 +2,4 @@ flask
 python-dotenv
 pymongo
 gunicorn
-"pymongo[srv]"
+pymongo[srv]
